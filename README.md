@@ -1,6 +1,4 @@
-# Lutris
-
-Lutris container
+# Lutris container
 
 This container need to use [x11docker](https://github.com/mviereck/x11docker), to correctly perfoms ALSA and PulseAudio connection.
 
